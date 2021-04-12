@@ -1,0 +1,42 @@
+[
+   {
+      "id":1,
+      "nome":"Joao da Silva",
+      "acionista":true
+   },
+   {
+      "id":343,
+      "nome":"CDB",
+      "aplicacao":true
+   },
+   {
+      "id":341,
+      "nome":"Antonio de Souza",
+      "acionista":true
+   },
+   {
+      "id":45341,
+      "nome":"Poupanca",
+      "aplicacao":true
+   },
+   {
+      "id":31,
+      "nome":"Manoel de Oliveira",
+      "acionista":true
+   },
+   {
+      "id":1,
+      "nome":"Petrobras acao",
+      "aplicacao":true
+   },
+   {
+      "id":345341,
+      "nome":"Jose dos Santos",
+      "acionista":true
+   },
+   {
+      "id":31,
+      "nome":"Banco do Brasil acao",
+      "aplicacao":true
+   }
+]
